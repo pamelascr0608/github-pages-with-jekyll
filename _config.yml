@@ -1,8 +1,9 @@
 title: Pâmela Resende's Blog
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Pâmela and I 
-
+  Hello, I'm Pâmela and I'm glade to meet you here. 
+  In this blog I will try to give you some tips and contents that I learn each day in programming. I know that sometimes all 
+  you need is somebody who passed through the same bug that you're freaking out for hours to share some tips and help. Here I am. 
 # social links
 twitter_username: pamelascr_ # DO NOT include the @ character, or else the build will fail!
 github_username:  pamelascr0608 # DO NOT include the @ character, or else the build will fail!
